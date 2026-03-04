@@ -1,0 +1,9 @@
+#libraries
+pandas
+numpy
+beautifulsoup4
+requests
+scikit-learn
+xgboost
+streamlit
+joblib
